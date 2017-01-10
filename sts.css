@@ -1,0 +1,16 @@
+.box {
+  position: relative;
+  border-radius: 20px;
+  left: 30px;
+  width: 150px;
+  height: 120px;
+  background-color: #4CB7E4;
+}
+.triangle {
+  position: relative;
+  top: 20px;
+  right: 150px;
+  border-top: 22px solid transparent;
+  border-bottom: 22px solid transparent;
+  border-right: 40px solid #4CB7E4; 
+}
